@@ -27,19 +27,19 @@ import {
 
 const ORG = {
   // — Basisdaten —
-  legalName: "Vivien Krüger",
+  legalName: "Manuel Schulz",
   brand: "",
-  street: "Düsedauer Straße 70",
-  postalCode: "39606",
-  city: "Osterburg",
+  street: "Steinstraße 27",
+  postalCode: "39615",
+  city: "Seehausen",
   country: "Deutschland",
-  email: "vivienkruger138@gmail.com",
-  phone: "+49 (0)15115837700",
+  email: "manukazma@gmail.com",
+  phone: "+49 (0)15159164838",
   website: "",
 
   // — Vertretung —
-  representedBy: "Vivien Krüger",
-  position: "Inhaberin",
+  representedBy: "Manuel Schulz",
+  position: "Inhaber",
 
   // — Register & USt —
   registerCourt: "",
@@ -52,15 +52,15 @@ const ORG = {
   professionalRules: "",
 
   // — Verantwortlich gem. § 18 Abs. 2 MStV —
-  contentResponsible: "Vivien Krüger",
-  contentResponsibleAddress: "Düsedauer Straße 70, 39606 Osterburg",
+  contentResponsible: "Manuel Schulz",
+  contentResponsibleAddress: "Steinstraße 27, 39615 Seehausen",
 
   // — Verbraucherschlichtung —
   disputeText:
     "Wir sind nicht verpflichtet und nicht bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
 
   // — Letzte Aktualisierung —
-  lastUpdated: "09.11.2025",
+  lastUpdated: "11.06.2026",
 };
 
 const sections = [
